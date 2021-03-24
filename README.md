@@ -10,3 +10,5 @@ apply plugin: 'kotlin-kapt'
     kapt 'androidx.room:room-compiler:2.1.0'
     
 ```
+
+You can support by buying me a coffee [Support Me](https://www.buymeacoffee.com/talsh)
